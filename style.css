@@ -117,7 +117,7 @@ section h2 {
   background: #222;
   border: 2px solid var(--brand-teal);
   border-radius: 6px;
-  padding: 1rem;
+  padding: 0.5rem;
   text-align: center;
 }
 
@@ -181,7 +181,7 @@ section h2 {
   background: #111;
   z-index: 10;
   padding: 0.5rem 0;
-  font-size: 2rem;
+  font-size: 1.5rem;
   border-bottom: 1px solid var(--brand-teal);
 }
 
